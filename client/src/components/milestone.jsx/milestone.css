@@ -1,0 +1,21 @@
+.milestone {
+	width: "100%";
+	margin: 20px;
+}
+
+.stepper {
+	width: 250px;
+}
+
+.button {
+	margin-top: 10;
+	margin-right: 10;
+}
+
+.actionsContainer {
+	margin-bottom: 20;
+}
+
+.resetContainer {
+	padding: 30;
+}
